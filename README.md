@@ -11,9 +11,6 @@ The dataset used in this project is 'Mall_Customers.csv', which contains informa
 - A dendrogram is used to determine the optimal number of clusters.
 - Hierarchical clustering is applied to segment the customers into distinct groups based on their features.
 
-## Key Highlights of Code
-{code_highlights[:500]}  # Including only a snippet of code highlights for brevity
-
 ## Visualization
 The results of the clustering are visualized using scatter plots, with different colors representing different clusters. This provides an intuitive understanding of the customer segments.
 
